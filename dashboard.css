@@ -1,0 +1,21 @@
+body{
+    background-color: #f9fbfd !important;
+}
+.navbar-collapse{
+    justify-content: inherit;
+}
+
+.navbar{
+    background-color: #fff !important;
+}
+ 
+.symbol {
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-right:5px ;
+  }
+
+.bi-currency-dollar, .bi-graph-up , .bi-currency-dollar ,.bi-currency-dollar {
+    font-size: 30px;
+    padding: 10px;
+}
